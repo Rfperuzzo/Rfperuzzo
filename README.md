@@ -1,10 +1,10 @@
 <div align="center">
 
-# Ramon Peruzzo
+# 👋 Olá, eu sou Ramon Peruzzo
 
 ### Software Development • Mobile • Automation • Data
 
-Desenvolvedor focado na criação de soluções práticas, automação de processos e aplicações que resolvem problemas reais.
+Desenvolvedor focado em transformar **problemas reais em soluções através de software**.
 
 <br>
 
@@ -18,9 +18,18 @@ Desenvolvedor focado na criação de soluções práticas, automação de proces
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor de projetos voltados principalmente para **aplicações mobile, automação, processamento de dados e soluções operacionais**.
 
-Grande parte dos meus projetos nasce de problemas reais: processos manuais, tarefas repetitivas, conferência de dados e situações em que software pode tornar uma operação mais rápida, segura e simples.
+Grande parte dos meus projetos nasce de problemas reais: processos manuais, tarefas repetitivas, conferência de informações e situações em que software pode tornar uma operação **mais rápida, confiável e simples**.
 
-Atualmente trabalho principalmente com **Flutter/Dart, Java e Python**, além de Git, GitHub, Docker e automações envolvendo dados e planilhas.
+Atualmente trabalho principalmente com **Flutter/Dart, Java e Python**, utilizando Git e GitHub no controle de versão e explorando tecnologias como **Docker, Maven e Tomcat**.
+
+```text
+📱 Mobile Development       Flutter • Dart
+☕ Software Development     Java
+🐍 Automation & Data        Python
+🐳 Containers               Docker
+🔀 Version Control          Git • GitHub
+📊 Data Processing          Excel • Python
+```
 
 ---
 
@@ -28,33 +37,79 @@ Atualmente trabalho principalmente com **Flutter/Dart, Java e Python**, além de
 
 ## 🏋️ Consistência
 
-### Fitness, treino e evolução em uma experiência mobile completa.
+### Treino, evolução e constância em uma experiência mobile completa.
 
-O **Consistência** é meu principal projeto atualmente: uma aplicação fitness desenvolvida para atender usuários de diferentes níveis de experiência e transformar a organização do treinamento em uma experiência simples e personalizada.
+O **Consistência** é meu principal projeto atualmente.
 
-O projeto está sendo desenvolvido como um **produto real**, com arquitetura preparada para evolução contínua e publicação em loja.
+É uma aplicação fitness desenvolvida para transformar a criação e organização de treinos em uma experiência **simples, personalizada e acessível para diferentes perfis de usuários**.
 
-### Principais áreas do projeto
+Diferente de um projeto criado apenas para estudo, o Consistência está sendo desenvolvido como **produto real**, com fluxo estruturado de desenvolvimento, testes, versionamento e preparação para distribuição.
 
-- 📱 Aplicação mobile desenvolvida em **Flutter**
-- 🎯 Criação e organização de treinos
-- 🏋️ Biblioteca estruturada de exercícios
-- 💪 Seleção de grupos musculares
-- 🏗️ Seleção de equipamentos disponíveis
-- ⚙️ Geração personalizada de treinamento
-- 📊 Acompanhamento da rotina de treino
-- 🎨 Sistema de personalização visual
+> 🚀 **Status atual:** desenvolvimento ativo e preparação para publicação em loja.
+
+### ✨ Principais recursos
+
+- 🏋️ Criação e organização de treinos
+- ⚙️ Criação automática de treinamento
+- 💪 Seleção de grupos musculares prioritários
+- 🏗️ Seleção dos equipamentos disponíveis
+- 📚 Biblioteca estruturada de exercícios
+- 📅 Organização da rotina de treinamento
+- 🎨 Personalização da experiência visual
+- 📊 Acompanhamento da evolução do usuário
 - 🧩 Arquitetura preparada para expansão
-- 🧪 Desenvolvimento baseado em branches, testes e Pull Requests
-- 🚀 Preparação para distribuição em loja
+- 📱 Experiência desenvolvida para dispositivos móveis
 
-### Stack
+### 🧑‍💻 Desenvolvimento
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,git,github&theme=dark" />
+O desenvolvimento utiliza um fluxo baseado em:
+
+```text
+Feature
+   │
+   ▼
+Branch dedicada
+   │
+   ▼
+Implementação
+   │
+   ▼
+Testes e validação
+   │
+   ▼
+Pull Request
+   │
+   ▼
+Code Review
+   │
+   ▼
+Merge
+   │
+   ▼
+Pipeline / Deploy
+```
+
+Isso permite que novas funcionalidades sejam desenvolvidas e validadas antes de chegarem à versão principal do aplicativo.
+
+### 🛠️ Stack principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github&theme=dark" />
 </p>
 
-> **Status:** 🚀 Em desenvolvimento ativo e preparação para lançamento.
+### 📲 Disponibilidade
+
+🟡 **Em preparação para lançamento.**
+
+A versão pública e o link oficial da loja serão adicionados aqui após a publicação.
+
+<!--
+Quando o Consistência estiver publicado, adicionar aqui:
+
+<a href="LINK_GOOGLE_PLAY">
+  <img src="https://img.shields.io/badge/Google_Play-Disponível-414141?style=for-the-badge&logo=google-play&logoColor=white">
+</a>
+-->
 
 ---
 
@@ -62,129 +117,282 @@ O projeto está sendo desenvolvido como um **produto real**, com arquitetura pre
 
 ## 📦 Conferidor de Objetos
 
-Aplicação mobile desenvolvida para realizar **conferência rápida de códigos de rastreamento**.
+Aplicação mobile criada para realizar **conferência rápida de códigos de rastreamento**.
 
-O sistema permite importar listas de objetos e realizar a conferência utilizando leitura contínua pela câmera, retornando imediatamente se o objeto foi localizado.
+O sistema permite carregar uma lista de objetos e realizar a conferência utilizando leitura contínua através da câmera.
 
-**Destaques**
+Cada código identificado é processado localmente e comparado com a lista importada, fornecendo feedback imediato ao operador.
 
-- Flutter / Dart
-- Scanner utilizando câmera
-- Processamento offline
-- Importação de listas
-- Persistência local
-- Feedback visual e sonoro
-- Conferência em tempo real
+### Principais recursos
 
----
+- 📷 Leitura contínua através da câmera
+- 📋 Importação de listas
+- ✍️ Inserção manual de códigos
+- ⚡ Conferência em tempo real
+- 🔊 Feedback sonoro
+- 🟢 Identificação visual de objetos encontrados
+- 🔴 Identificação de objetos não encontrados
+- 💾 Processamento e armazenamento local
+- 📴 Funcionamento offline
 
-## 📍 Sistema de Consulta de CEP e Triagem
-
-Aplicação criada para consultar **faixas de CEP em planos operacionais importados**, identificando automaticamente destino e posição associados ao código lido.
-
-O projeto combina processamento de dados com uma interface mobile voltada para utilização operacional.
-
-**Destaques**
-
-- Flutter
-- Leitura de CEP pela câmera
-- Importação de planilhas
-- Consulta local
-- Persistência de dados
-- Busca otimizada em faixas de CEP
-
----
-
-## 📊 Automação e Processamento de Planilhas
-
-Conjunto de soluções desenvolvidas em **Python e Excel** para automatizar processamento, validação, agrupamento e análise de grandes volumes de dados.
-
-Entre os trabalhos desenvolvidos estão:
-
-- Detecção automática de duplicidades
-- Agrupamento baseado em regras
-- Normalização de dados
-- Validação de registros
-- Geração automática de relatórios
-- Processamento de grandes conjuntos de planilhas
-- Exportação estruturada de informações
+**Tecnologias:** Flutter • Dart • Riverpod • Hive
 
 <p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 </p>
 
 ---
 
-## 🎓 Projetos Java
+## 📍 Consulta Inteligente de CEP e Triagem
 
-Projetos desenvolvidos durante minha formação em **Análise e Desenvolvimento de Sistemas**, explorando progressivamente conceitos de desenvolvimento de software.
+Aplicação mobile desenvolvida para consultar **faixas de CEP presentes em planos operacionais**.
 
-Áreas estudadas e aplicadas:
+Através da leitura do CEP pela câmera, o sistema identifica automaticamente o intervalo correspondente e apresenta as informações relacionadas ao destino e à posição operacional.
 
-- Lógica de programação
-- Programação Orientada a Objetos
-- Estruturas condicionais e repetição
-- Modelagem de classes
+### Principais recursos
+
+- 📷 Leitura de CEP pela câmera
+- 📑 Importação de planos
+- 🔎 Consulta automática por faixa
+- ⚡ Processamento local
+- 💾 Persistência dos planos importados
+- ✍️ Consulta manual como alternativa à câmera
+- 📍 Identificação automática de destino e posição
+
+**Tecnologias:** Flutter • Dart • Excel
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+</p>
+
+---
+
+## 📊 Automação de Planilhas de Triagem
+
+Projeto desenvolvido para processar grandes conjuntos de **planilhas operacionais**, identificar padrões e automatizar tarefas que anteriormente dependiam de análise manual.
+
+O sistema consegue analisar diversas planilhas, identificar descrições equivalentes, aplicar regras de agrupamento e detectar duplicidades.
+
+### Principais recursos
+
+- 📂 Processamento em lote de planilhas
+- 🔍 Detecção de registros duplicados
+- 🧠 Agrupamento baseado em regras
+- 🧹 Normalização de informações
+- 📊 Consolidação automática dos resultados
+- 📑 Geração de arquivos estruturados para análise
+
+**Tecnologias:** Python • Pandas • Excel
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+
+---
+
+## 🎓 Censo Escolar — Processamento e Validação de Dados
+
+Projeto de automação desenvolvido para auxiliar no processamento e validação de grandes volumes de registros relacionados ao **Censo Escolar**.
+
+A solução utiliza Python para importar dados, mapear campos, executar validações, identificar inconsistências e gerar arquivos estruturados para processamento.
+
+### Principais recursos
+
+- 📥 Importação de dados
+- 🗺️ Mapeamento automático de campos
+- ✅ Validação de registros
+- ⚠️ Identificação de inconsistências
+- 📊 Geração de relatórios
+- 📄 Exportação estruturada de dados
+- 🔎 Rastreamento de registros pendentes
+
+**Tecnologias:** Python • Pandas • Excel
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+
+---
+
+## 📈 Gestão de Registros Operacionais
+
+Sistema desenvolvido para organizar, consultar e gerar relatórios sobre registros operacionais.
+
+A solução centraliza informações anteriormente distribuídas em diferentes processos e permite automatizar tarefas de cadastro, consulta e geração de relatórios.
+
+### Principais recursos
+
+- 📥 Importação de dados operacionais
+- 🗃️ Base centralizada de registros
+- 🔎 Consulta automatizada
+- 📊 Dashboard
+- 📅 Relatórios diários
+- 🗓️ Relatórios mensais
+- 📄 Exportação automática de relatórios
+
+**Tecnologias:** Excel • VBA • Automação
+
+---
+
+# ☕ Java & Formação em Desenvolvimento
+
+Além dos projetos principais, utilizo meus repositórios para acompanhar minha evolução em **Java e desenvolvimento de software**.
+
+Tenho trabalhado progressivamente com:
+
+```text
+Lógica de Programação
+        ↓
+Java
+        ↓
+Programação Orientada a Objetos
+        ↓
+Modelagem de Classes
+        ↓
+Maven
+        ↓
+Aplicações Web
+        ↓
+Tomcat
+        ↓
+Docker
+        ↓
+Git / GitHub
+```
+
+Também utilizo exercícios e projetos acadêmicos para praticar conceitos como:
+
+- Estruturas condicionais
+- Estruturas de repetição
+- Métodos
+- Classes e objetos
+- Encapsulamento
+- Herança
+- Organização de projetos
 - Maven
 - Aplicações Java
-- Tomcat
-- Docker
-- Git e GitHub
-- Desenvolvimento colaborativo utilizando branches e Pull Requests
+- Git
+- Branches
+- Pull Requests
+- Desenvolvimento colaborativo
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,maven,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,maven,docker,git,github&theme=dark" />
 </p>
 
 ---
 
-# 🛠️ Tecnologias
+# 🛠️ Stack
 
-<div align="center">
+## 📱 Mobile
 
-### Desenvolvimento
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,html,css&theme=dark" />
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea&theme=dark" />
-
-</div>
+`Flutter` `Dart`
 
 ---
 
-# 📊 GitHub
+## 💻 Desenvolvimento
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rfperuzzo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+`Java` `Python`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfperuzzo&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+---
 
-</div>
+## 🌐 Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+</p>
+
+`HTML` `CSS`
+
+---
+
+## ⚙️ Ferramentas & Infraestrutura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,vscode,idea&theme=dark" />
+</p>
+
+`Git` `GitHub` `Docker` `Maven` `VS Code` `IDE`
+
+---
+
+# 🔀 Como trabalho com Git
+
+Nos projetos maiores, procuro manter um fluxo organizado de desenvolvimento:
+
+```text
+main
+ │
+ ├── feature/nova-funcionalidade
+ │        │
+ │        ├── desenvolvimento
+ │        ├── commits
+ │        └── testes
+ │
+ └──────────────► Pull Request
+                       │
+                       ▼
+                   Validação
+                       │
+                       ▼
+                     Merge
+                       │
+                       ▼
+                      main
+```
+
+A ideia é manter a branch principal estável enquanto novas funcionalidades são desenvolvidas e testadas separadamente.
+
+---
+
+# 🧠 Áreas de Interesse
+
+```text
+📱 Desenvolvimento Mobile
+💻 Engenharia de Software
+🤖 Automação
+📊 Processamento de Dados
+☕ Java
+🐍 Python
+🧩 Arquitetura de Aplicações
+🐳 Containers e Deploy
+🔀 Versionamento e CI/CD
+```
 
 ---
 
 # 🎯 Atualmente
 
-```text
-🏋️ Desenvolvendo e preparando o Consistência para lançamento
-📱 Construindo aplicações mobile com Flutter e Dart
-☕ Evoluindo em Java e desenvolvimento de software
-🐍 Automatizando processos e trabalhando com dados usando Python
-🐳 Explorando containers, deploy e infraestrutura com Docker
-🔧 Transformando problemas reais em software
-```
+- 🚀 Preparando o **Consistência** para lançamento
+- 📱 Desenvolvendo aplicações com **Flutter & Dart**
+- ☕ Aprofundando meus conhecimentos em **Java**
+- 🐍 Desenvolvendo automações com **Python**
+- 🧩 Evoluindo em arquitetura e organização de software
+- 🐳 Trabalhando com **Docker e ambientes de aplicação**
+- 🔀 Aprimorando fluxos de desenvolvimento com **Git, branches, PRs e pipelines**
 
 ---
 
 <div align="center">
 
-### Construindo. Testando. Aprendendo. Evoluindo.
+## 🚀 Transformando problemas reais em software.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Rfperuzzo&style=flat-square&color=0969da" alt="Profile views"/>
+**Ramon Peruzzo**
+
+Software Development • Mobile • Automation • Data
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,docker,git,github&theme=dark" />
 
 </div>
