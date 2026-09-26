@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Ramon Peruzzo
+# Ramon Peruzzo
 
-### 💻 Desenvolvedor em formação | ADS | Java • Python • Flutter
+### Software Development • Mobile • Automation • Data
 
-Construindo soluções para problemas reais, aprendendo um commit de cada vez.
+Desenvolvedor focado na criação de soluções práticas, automação de processos e aplicações que resolvem problemas reais.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvimento+de+Software;Java+%7C+Python+%7C+Flutter+%7C+Dart;Automa%C3%A7%C3%A3o+e+solu%C3%A7%C3%A3o+de+problemas;Sempre+aprendendo.+Sempre+construindo." alt="Typing SVG" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,docker,git,github&theme=dark" />
 
 </div>
 
@@ -16,33 +16,137 @@ Construindo soluções para problemas reais, aprendendo um commit de cada vez.
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em transformar problemas do dia a dia em soluções através da tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor de projetos voltados principalmente para **aplicações mobile, automação, processamento de dados e soluções operacionais**.
 
-Tenho desenvolvido projetos envolvendo **aplicações mobile, automação, processamento de dados e sistemas em Java**, sempre buscando unir aprendizado acadêmico com aplicações práticas.
+Grande parte dos meus projetos nasce de problemas reais: processos manuais, tarefas repetitivas, conferência de dados e situações em que software pode tornar uma operação mais rápida, segura e simples.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- ☕ Estudando e desenvolvendo projetos em **Java**
-- 🐍 Utilizando **Python** para automação e processamento de dados
-- 📱 Desenvolvendo aplicações com **Flutter & Dart**
-- 🐳 Explorando **Docker, Tomcat e ambientes de deploy**
-- 📊 Experiência com automação e processamento de dados em **Excel**
-- 🌱 Atualmente aprofundando meus conhecimentos em **desenvolvimento de software e arquitetura de aplicações**
+Atualmente trabalho principalmente com **Flutter/Dart, Java e Python**, além de Git, GitHub, Docker e automações envolvendo dados e planilhas.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+# 🚀 Projeto Principal
+
+## 🏋️ Consistência
+
+### Fitness, treino e evolução em uma experiência mobile completa.
+
+O **Consistência** é meu principal projeto atualmente: uma aplicação fitness desenvolvida para atender usuários de diferentes níveis de experiência e transformar a organização do treinamento em uma experiência simples e personalizada.
+
+O projeto está sendo desenvolvido como um **produto real**, com arquitetura preparada para evolução contínua e publicação em loja.
+
+### Principais áreas do projeto
+
+- 📱 Aplicação mobile desenvolvida em **Flutter**
+- 🎯 Criação e organização de treinos
+- 🏋️ Biblioteca estruturada de exercícios
+- 💪 Seleção de grupos musculares
+- 🏗️ Seleção de equipamentos disponíveis
+- ⚙️ Geração personalizada de treinamento
+- 📊 Acompanhamento da rotina de treino
+- 🎨 Sistema de personalização visual
+- 🧩 Arquitetura preparada para expansão
+- 🧪 Desenvolvimento baseado em branches, testes e Pull Requests
+- 🚀 Preparação para distribuição em loja
+
+### Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,git,github&theme=dark" />
+</p>
+
+> **Status:** 🚀 Em desenvolvimento ativo e preparação para lançamento.
+
+---
+
+# 🧩 Outros Projetos
+
+## 📦 Conferidor de Objetos
+
+Aplicação mobile desenvolvida para realizar **conferência rápida de códigos de rastreamento**.
+
+O sistema permite importar listas de objetos e realizar a conferência utilizando leitura contínua pela câmera, retornando imediatamente se o objeto foi localizado.
+
+**Destaques**
+
+- Flutter / Dart
+- Scanner utilizando câmera
+- Processamento offline
+- Importação de listas
+- Persistência local
+- Feedback visual e sonoro
+- Conferência em tempo real
+
+---
+
+## 📍 Sistema de Consulta de CEP e Triagem
+
+Aplicação criada para consultar **faixas de CEP em planos operacionais importados**, identificando automaticamente destino e posição associados ao código lido.
+
+O projeto combina processamento de dados com uma interface mobile voltada para utilização operacional.
+
+**Destaques**
+
+- Flutter
+- Leitura de CEP pela câmera
+- Importação de planilhas
+- Consulta local
+- Persistência de dados
+- Busca otimizada em faixas de CEP
+
+---
+
+## 📊 Automação e Processamento de Planilhas
+
+Conjunto de soluções desenvolvidas em **Python e Excel** para automatizar processamento, validação, agrupamento e análise de grandes volumes de dados.
+
+Entre os trabalhos desenvolvidos estão:
+
+- Detecção automática de duplicidades
+- Agrupamento baseado em regras
+- Normalização de dados
+- Validação de registros
+- Geração automática de relatórios
+- Processamento de grandes conjuntos de planilhas
+- Exportação estruturada de informações
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+
+---
+
+## 🎓 Projetos Java
+
+Projetos desenvolvidos durante minha formação em **Análise e Desenvolvimento de Sistemas**, explorando progressivamente conceitos de desenvolvimento de software.
+
+Áreas estudadas e aplicadas:
+
+- Lógica de programação
+- Programação Orientada a Objetos
+- Estruturas condicionais e repetição
+- Modelagem de classes
+- Maven
+- Aplicações Java
+- Tomcat
+- Docker
+- Git e GitHub
+- Desenvolvimento colaborativo utilizando branches e Pull Requests
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,maven,docker,git&theme=dark" />
+</p>
+
+---
+
+# 🛠️ Tecnologias
 
 <div align="center">
 
-### Linguagens
-
-<img src="https://skillicons.dev/icons?i=java,python,dart,js&theme=dark" />
-
 ### Desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=flutter,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,html,css&theme=dark" />
 
-### Ferramentas & Ambiente
+### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea&theme=dark" />
 
@@ -50,27 +154,11 @@ Tenho desenvolvido projetos envolvendo **aplicações mobile, automação, proce
 
 ---
 
-## 🚀 O que você vai encontrar por aqui
-
-Meus repositórios acompanham minha evolução como desenvolvedor e incluem projetos de diferentes áreas:
-
-📱 **Aplicações Mobile** — desenvolvimento de apps utilizando Flutter e Dart.
-
-☕ **Java** — exercícios, projetos acadêmicos, orientação a objetos e aplicações web.
-
-🐍 **Python & Automação** — scripts para processamento de dados, planilhas e automação de tarefas.
-
-📊 **Soluções para problemas reais** — ferramentas criadas para simplificar processos e transformar tarefas repetitivas em sistemas automatizados.
-
-🐳 **DevOps & Infraestrutura** — experimentos com Docker, Tomcat, Git e pipelines de desenvolvimento.
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rfperuzzo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rfperuzzo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfperuzzo&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 
@@ -78,59 +166,25 @@ Meus repositórios acompanham minha evolução como desenvolvedor e incluem proj
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rfperuzzo&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
-
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rfperuzzo&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rfperuzzo/Rfperuzzo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🎯 Atualmente
+# 🎯 Atualmente
 
 ```text
-☕ Aprimorando meus conhecimentos em Java
-📱 Desenvolvendo aplicações com Flutter
-🐍 Criando automações e ferramentas com Python
-🐳 Estudando Docker e ambientes de aplicação
-🧠 Evoluindo em lógica, POO e arquitetura de software
-🚀 Transformando ideias em projetos reais
+🏋️ Desenvolvendo e preparando o Consistência para lançamento
+📱 Construindo aplicações mobile com Flutter e Dart
+☕ Evoluindo em Java e desenvolvimento de software
+🐍 Automatizando processos e trabalhando com dados usando Python
+🐳 Explorando containers, deploy e infraestrutura com Docker
+🔧 Transformando problemas reais em software
 ```
 
 ---
 
 <div align="center">
 
-### 💡 "Código bom resolve um problema. Aprender a construí-lo resolve muitos outros."
+### Construindo. Testando. Aprendendo. Evoluindo.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rfperuzzo&style=for-the-badge&color=0e75b6)
-
-<br><br>
-
-**Obrigado pela visita! 👨‍💻**
+<img src="https://komarev.com/ghpvc/?username=Rfperuzzo&style=flat-square&color=0969da" alt="Profile views"/>
 
 </div>
